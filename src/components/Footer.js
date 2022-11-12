@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer>
       <img className="insta-logo" src={insta} />
-      <img className="insta-logo" src={github} />
+      <img className="github-logo" src={github} />
     </footer>
   );
 }

@@ -7,7 +7,7 @@ export default function Contact() {
     <>
       <h1 className="name-text">Dang Nguyen</h1>
       <h2 className="role-text">Developer</h2>
-      <h3 className="insta-text">nwin.nwin</h3>
+      <h3 className="insta-text">@nwin.nwin</h3>
       <div className="contact-btn">
         <button className="email-btn">
           <img className="email-logo" src={email} />
